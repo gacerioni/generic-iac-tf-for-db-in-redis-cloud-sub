@@ -1,2 +1,1 @@
-redis_global_api_key = "Armjlu9edjsq139bw4vz628sm5z0wc1isj8pkr91px5pukazxn"
-redis_global_secret_key = "S5b9g9n1lhkybctemuwtd3f8rsluyi5iyr4wxbuayb168k4x5ge"
+
