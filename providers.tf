@@ -7,8 +7,6 @@ terraform {
   }
 }
 
-
-
 provider "vault" {
   address = var.vault_full_addr
   // Token or other authentication method
