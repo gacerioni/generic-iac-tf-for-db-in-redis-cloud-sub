@@ -38,5 +38,9 @@ output "global_secret_key" {
 }
 
 output "redis_cloud_account_id" {
-  value = data.rediscloud_cloud_account.example.id
+  value = data.rediscloud_cloud_account.account.id
+}
+
+output "redis_cloud_account_visa_credit_card" {
+  value = data.rediscloud_payment_method.card
 }
