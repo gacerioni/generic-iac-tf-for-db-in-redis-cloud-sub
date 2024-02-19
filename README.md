@@ -17,7 +17,7 @@ The Terraform setup in this repository is designed to create and manage Redis Cl
 Before using this Terraform configuration, set up a KV store in your Vault instance:
 
 1. Create a KV store named `secret`.
-2. Add the following secrets to the path `secret/redis-quintoandar-lab`:
+2. Add the following secrets (single entry, add the entire json) to the path `secret/redis-quintoandar-lab`:
 
     ```json
     {
