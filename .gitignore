@@ -8,6 +8,8 @@
 *.auto.tfvars
 *.tfvars
 **/*.tfvars
+environments/dev/terraform.tfvars
+environments/prod/terraform.tfvars
 
 # Ignore override files as they are usually used to override resources locally and don't need to be committed
 override.tf
