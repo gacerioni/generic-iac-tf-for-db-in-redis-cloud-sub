@@ -1,3 +1,2 @@
-#redis_global_api_key = "Armjlu9edjsq139bw4vz628sm5z0wc1isj8pkr91px5pukazxn"
-#redis_global_secret_key = "S36e8nte3di2dt8225oafe7srl0dmiuvs7wy8hnraano8hndhe2"
 vault_root_token = "hvs.UDuW1C3KGQ03RwfzSn3ktJZc"
+
